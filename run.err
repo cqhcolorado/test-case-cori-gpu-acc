@@ -1,0 +1,36 @@
+Current file:     /global/cscratch1/sd/cqh2021/GEM_OpenACC_04292021/GEM-parallel-coupling/gem_main.F90
+        function: grid1
+        line:     1699
+This file was compiled: -ta=tesla:cc70
+Current file:     /global/cscratch1/sd/cqh2021/GEM_OpenACC_04292021/GEM-parallel-coupling/gem_main.F90
+        function: grid1
+        line:     1699
+This file was compiled: -ta=tesla:cc70
+Current file:     /global/cscratch1/sd/cqh2021/GEM_OpenACC_04292021/GEM-parallel-coupling/gem_main.F90
+        function: grid1
+        line:     1699
+This file was compiled: -ta=tesla:cc70
+Current file:     /global/cscratch1/sd/cqh2021/GEM_OpenACC_04292021/GEM-parallel-coupling/gem_main.F90
+        function: grid1
+        line:     1699
+This file was compiled: -ta=tesla:cc70
+Current file:     /global/cscratch1/sd/cqh2021/GEM_OpenACC_04292021/GEM-parallel-coupling/gem_main.F90
+        function: grid1
+        line:     1699
+This file was compiled: -ta=tesla:cc70
+Current file:     /global/cscratch1/sd/cqh2021/GEM_OpenACC_04292021/GEM-parallel-coupling/gem_main.F90
+        function: grid1
+        line:     1699
+This file was compiled: -ta=tesla:cc70
+Current file:     /global/cscratch1/sd/cqh2021/GEM_OpenACC_04292021/GEM-parallel-coupling/gem_main.F90
+        function: grid1
+        line:     1699
+This file was compiled: -ta=tesla:cc70
+Current file:     /global/cscratch1/sd/cqh2021/GEM_OpenACC_04292021/GEM-parallel-coupling/gem_main.F90
+        function: grid1
+        line:     1699
+This file was compiled: -ta=tesla:cc70
+srun: error: cgpu01: tasks 1,3: Exited with exit code 1
+srun: Terminating job step 2001941.1
+slurmstepd: error: *** STEP 2001941.1 ON cgpu01 CANCELLED AT 2021-06-15T10:05:43 ***
+srun: error: cgpu01: tasks 0,2,4-7: Exited with exit code 1

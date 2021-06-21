@@ -1,0 +1,62 @@
+[1623776741.903973] [cgpu01:17037:0]    ucp_context.c:690  UCX  WARN  transports 'cuda_copy','gdr_copy','cuda_ipc' are not available, please use one or more of: cma, dc, dc_mlx5, dc_x, ib, mm, posix, rc, rc_mlx5, rc_v, rc_verbs, rc_x, self, shm, sm, sysv, tcp, ud, ud_mlx5, ud_v, ud_verbs, ud_x
+[1623776741.935532] [cgpu01:17038:0]    ucp_context.c:690  UCX  WARN  transports 'cuda_copy','gdr_copy','cuda_ipc' are not available, please use one or more of: cma, dc, dc_mlx5, dc_x, ib, mm, posix, rc, rc_mlx5, rc_v, rc_verbs, rc_x, self, shm, sm, sysv, tcp, ud, ud_mlx5, ud_v, ud_verbs, ud_x
+[1623776741.771843] [cgpu01:17039:0]    ucp_context.c:690  UCX  WARN  transports 'cuda_copy','gdr_copy','cuda_ipc' are not available, please use one or more of: cma, dc, dc_mlx5, dc_x, ib, mm, posix, rc, rc_mlx5, rc_v, rc_verbs, rc_x, self, shm, sm, sysv, tcp, ud, ud_mlx5, ud_v, ud_verbs, ud_x
+[1623776741.915184] [cgpu01:17040:0]    ucp_context.c:690  UCX  WARN  transports 'cuda_copy','gdr_copy','cuda_ipc' are not available, please use one or more of: cma, dc, dc_mlx5, dc_x, ib, mm, posix, rc, rc_mlx5, rc_v, rc_verbs, rc_x, self, shm, sm, sysv, tcp, ud, ud_mlx5, ud_v, ud_verbs, ud_x
+[1623776741.946438] [cgpu01:17042:0]    ucp_context.c:690  UCX  WARN  transports 'cuda_copy','gdr_copy','cuda_ipc' are not available, please use one or more of: cma, dc, dc_mlx5, dc_x, ib, mm, posix, rc, rc_mlx5, rc_v, rc_verbs, rc_x, self, shm, sm, sysv, tcp, ud, ud_mlx5, ud_v, ud_verbs, ud_x
+[1623776741.903425] [cgpu01:17041:0]    ucp_context.c:690  UCX  WARN  transports 'cuda_copy','gdr_copy','cuda_ipc' are not available, please use one or more of: cma, dc, dc_mlx5, dc_x, ib, mm, posix, rc, rc_mlx5, rc_v, rc_verbs, rc_x, self, shm, sm, sysv, tcp, ud, ud_mlx5, ud_v, ud_verbs, ud_x
+[1623776741.903425] [cgpu01:17043:0]    ucp_context.c:690  UCX  WARN  transports 'cuda_copy','gdr_copy','cuda_ipc' are not available, please use one or more of: cma, dc, dc_mlx5, dc_x, ib, mm, posix, rc, rc_mlx5, rc_v, rc_verbs, rc_x, self, shm, sm, sysv, tcp, ud, ud_mlx5, ud_v, ud_verbs, ud_x
+[1623776741.935995] [cgpu01:17036:0]    ucp_context.c:690  UCX  WARN  transports 'cuda_copy','gdr_copy','cuda_ipc' are not available, please use one or more of: cma, dc, dc_mlx5, dc_x, ib, mm, posix, rc, rc_mlx5, rc_v, rc_verbs, rc_x, self, shm, sm, sysv, tcp, ud, ud_mlx5, ud_v, ud_verbs, ud_x
+ total MPI=            8  ntube=            1  particle per MPI=        66048 
+        66048
+  -9.0949470177292824E-013   1.1460090782575622E-014  -1.2271846303073670E-002
+ dt,beta=     32.36611922270230        1.2195530804907236E-002
+ amp,vpp,yd0 =    9.9999999999999998E-013    0.000000000000000      
+    0.000000000000000     
+ peritr,ifluid=             0            0
+ tor,nonlin=     1.000000000000000                 1            1
+ isuni=             0 amie=     1835.466660000000     
+ kxcut,kycut,bcut=    0.2790349390931968        2.9823424198553751E-002 
+    3000.000000000000     
+ fradi,isg=     1.000000000000000         1.000000000000000     
+ llk,mlk,onemd =            0            1            1
+ vwidth (i,e), vcut=     8.000000000000000         8.000000000000000      
+    15.00000000000000     
+ rneu=     0.000000000000000     
+ V-ExB switch=     0.000000000000000     
+ V-parallel switch=     0.000000000000000     
+ mm1=         66048
+ pzcrite,encrit =     13.12507333974200         1.000000000000000     
+ nue0 =     1.000000000000000         1.000000000000000      
+    1.000000000000000     
+ xn0e(1),xnir0 =     1.259257238570655         0.000000000000000     
+ frequ, eru =     0.000000000000000         0.000000000000000     
+ lxa,lymult,delra,r0a,rina,routa=   0.8600000000000000      
+    2.000000000000000        5.0000000000000003E-002   0.5300000000000000      
+   0.1000000000000000        0.9600000000000000     
+ a,r0,rmaj0,q0,lx,ly,lz=    183.0854584038953         97.03529295406453      
+    542.9878083918395        -1.315420320000000         157.4534942273500      
+    231.7474945828893         4487.810323669831     
+ t0,kyrhoi_local=   0.6032766210000000        2.9780916994334806E-002
+ coefu =     0.000000000000000     
+ ktheta*rhos =    2.9780916994334806E-002
+ cs/a, q0, q0p, s^hat =    2.9997799499929889E-003   -1.315420320000000      
+   6.0000000000000001E-003  -0.4426051117443489     
+ rho* = rhos/a =    5.9995598999859779E-003
+ f0p,psip(nr/2),Bunit,candyf0p =     0.000000000000000      
+   -105.5991628023555         0.000000000000000         0.000000000000000     
+ lxa min =   -0.4551608525320235     
+ t0i(nr/2)=    0.6032766210000000     
+ Gyrokrs =                        Inf
+ omp_num_threads=            1
+ cn0s=   0.7658063836858320         0.000000000000000      
+    0.000000000000000        1.0609978954826362E-313   1.2731974745791634E-313
+ totvol,jacp,dum2=    226160705.1303338         2850.525946958880      
+    2857.348312671386     
+ after write totvol
+ after cut
+ before blendf
+ after blendf
+ after initialize
+ lr0,lx,rin,a    97.03529295406453         157.4534942273500      
+    18.30854584038953         183.0854584038953     
+ before grid1   9.1090000000000004E-006
